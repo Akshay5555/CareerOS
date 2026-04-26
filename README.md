@@ -13,3 +13,9 @@ Built on: Python · Telegram · Claude API · SQLite · AWS · iCloud CalDAV
 
 ## Status
 🟡 V1 In Progress
+
+feat: EC2 server provisioned
+- t3.micro, Ubuntu 22.04, ap-south-1
+- Elastic IP: 13.206.156.187
+- Python3, pip3, git installed
+- careeros/ directory created
